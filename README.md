@@ -4,11 +4,11 @@ Selenium-cucumber is a behavior driven development (BDD) approach to write autom
 execute automated acceptance tests
 
 # Prerequisites
-1. [Maven] (https://maven.apache.org/download.cgi)
-2. [Java] (https://java.com/en/download/manual.jsp)
+1. [Maven](https://maven.apache.org/download.cgi)
+2. [Java](https://java.com/en/download/manual.jsp)
 3. Latest version of Firefox or chrome to run the scripts
-4. [Gecko driver] (https://github.com/mozilla/geckodriver/releases)
-5. [Chrome Driver] (https://sites.google.com/a/chromium.org/chromedriver/)
+4. [Gecko driver](https://github.com/mozilla/geckodriver/releases)
+5. [Chrome Driver](https://sites.google.com/a/chromium.org/chromedriver/)
 6. Eclipse
 7. Eclipse Plugins: Maven, Cucumber
 
