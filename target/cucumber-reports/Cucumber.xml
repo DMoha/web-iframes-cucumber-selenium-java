@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="9" time="381.499684">
+<testcase classname="Test the Feedback button on different tabs" name="Successful submission of a specific feedback from Get Started tab" time="49.786081">
+<system-out><![CDATA[Given User has naviagted to the "Get Started" in Usabilla...................passed
+And selected "".............................................................passed
+When User wants to provide "Specific".......................................passed
+And User selects "Request Demo Form" for providing Feedback.................passed
+And User provides "4", "Suggestion", "Field names can be bolder", "", "7"...passed
+Then User should be able to submit the Feedback.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test the Feedback button on different tabs" name="Successful submission of a general feedback from Customers tab" time="43.674597">
+<system-out><![CDATA[Given User has naviagted to the "Customers" in Usabilla.....................passed
+And selected "Our Clients"..................................................passed
+When User wants to provide "General"........................................passed
+And User provides "4", "Question", "Question", "", "8"......................passed
+Then User should be able to submit the Feedback.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test the Feedback button on different tabs" name="Successful submission of a general feedback from Customers tab 2" time="40.134655">
+<system-out><![CDATA[Given User has naviagted to the "Customers" in Usabilla.....................passed
+And selected "Case Studies".................................................passed
+When User wants to provide "General"........................................passed
+And User provides "5", "Compliment", "Awesome", "deepu212@gmail.com", "9"...passed
+Then User should be able to submit the Feedback.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test the Feedback button on different tabs" name="Successful cancellation of a general feedback from Partners tab" time="54.30023">
+<system-out><![CDATA[Given User has naviagted to the "Partners" in Usabilla......................passed
+And selected "Partnership Overview".........................................passed
+When User wants to provide "General"........................................passed
+And User provides "2", "Bug", "Nothing", "", "4"............................passed
+Then User should be able to cancel the Feedback.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test the Feedback button on Homepage" name="Successful submission of a specific feedback" time="42.656229">
+<system-out><![CDATA[Given User has naviagted to the "Home" in Usabilla..........................passed
+When User wants to provide "Specific".......................................passed
+And User selects "Feedback button" for providing Feedback...................passed
+And User provides "4", "Suggestion", "Great", "", "8".......................passed
+Then User should be able to submit the Feedback.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test the Feedback button on Homepage" name="Successful submission of a specific feedback 2" time="37.019857">
+<system-out><![CDATA[Given User has naviagted to the "Home" in Usabilla..........................passed
+When User wants to provide "Specific".......................................passed
+And User selects "Logo" for providing Feedback..............................passed
+And User provides "5", "Compliment", "Awesome", "", "9".....................passed
+Then User should be able to submit the Feedback.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test the Feedback button on Homepage" name="Successful submission of a general feedback" time="32.965869">
+<system-out><![CDATA[Given User has naviagted to the "Home" in Usabilla..........................passed
+When User wants to provide "General"........................................passed
+And User provides "4", "Suggestion", "Great", "", "7".......................passed
+Then User should be able to submit the Feedback.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test the Feedback button on Homepage" name="Successful submission of a general feedback 2" time="33.065989">
+<system-out><![CDATA[Given User has naviagted to the "Home" in Usabilla..........................passed
+When User wants to provide "General"........................................passed
+And User provides "5", "Compliment", "Awesome", "", "8".....................passed
+Then User should be able to submit the Feedback.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test the Feedback button on Homepage" name="Successful Cancellation of a general feedback" time="47.896177">
+<system-out><![CDATA[Given User has naviagted to the "Home" in Usabilla..........................passed
+When User wants to provide "General"........................................passed
+And User provides "1", "Bug", "Issue", "test@example.com", "1"..............passed
+Then User should be able to cancel the Feedback.............................passed
+]]></system-out>
+</testcase>
+</testsuite>

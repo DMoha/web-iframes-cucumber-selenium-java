@@ -1,0 +1,205 @@
+2018-08-22 22:10:12,608 INFO  [Log] *********START TEST CASE********* 
+2018-08-22 22:10:28,004 INFO  [Log] Clicked on Get Started tab in the Home Page
+2018-08-22 22:10:28,392 INFO  [Log] Clicked on Feedback button
+2018-08-22 22:10:33,456 INFO  [Log] Total iframe count 7
+2018-08-22 22:10:33,594 INFO  [Log] Element  Specific Feedback section Present in the iframe 6
+2018-08-22 22:10:33,955 INFO  [Log] Clicked on Specific Feedback section
+2018-08-22 22:10:44,478 INFO  [Log] Total iframe count 7
+2018-08-22 22:10:44,611 INFO  [Log] Element  Rating list in Feedback form Present in the iframe 6
+2018-08-22 22:10:44,911 INFO  [Log] Clicked on Rating in Feedback form
+2018-08-22 22:10:49,947 INFO  [Log] Total iframe count 7
+2018-08-22 22:10:50,033 INFO  [Log] Element  Subject dropdown in Feedback form Present in the iframe 6
+2018-08-22 22:10:50,299 INFO  [Log] Total iframe count 7
+2018-08-22 22:10:50,393 INFO  [Log] Element  Feedback text area Present in the iframe 6
+2018-08-22 22:10:50,789 INFO  [Log] <EnterText on Feedback text area as Field names can be bolder>
+2018-08-22 22:10:50,811 INFO  [Log] Total iframe count 7
+2018-08-22 22:10:50,876 INFO  [Log] Element  Recommendion Rating label Present in the iframe 6
+2018-08-22 22:10:51,204 INFO  [Log] Clicked on Recommendion Rating button
+2018-08-22 22:10:51,228 INFO  [Log] Total iframe count 7
+2018-08-22 22:10:51,305 INFO  [Log] Element  Feedback Submit button Present in the iframe 6
+2018-08-22 22:10:51,546 INFO  [Log] Clicked on Feedback Submit button
+2018-08-22 22:10:51,580 INFO  [Log] Total iframe count 7
+2018-08-22 22:10:52,070 INFO  [Log] Element  Continue browsing button Present in the iframe 6
+2018-08-22 22:10:52,347 INFO  [Log] Clicked on Continue browsing button
+2018-08-22 22:10:53,610 INFO  [Log] *********END TEST CASE*********
+2018-08-22 22:10:59,138 INFO  [Log] *********START TEST CASE*********
+2018-08-22 22:11:17,731 INFO  [Log] Clicked on Customers sub tab
+2018-08-22 22:11:17,908 INFO  [Log] Clicked on Feedback button
+2018-08-22 22:11:22,955 INFO  [Log] Total iframe count 6
+2018-08-22 22:11:23,011 INFO  [Log] Element  Generic Feedback section Present in the iframe 5
+2018-08-22 22:11:23,305 INFO  [Log] Clicked on Generic Feedback section
+2018-08-22 22:11:28,359 INFO  [Log] Total iframe count 6
+2018-08-22 22:11:28,427 INFO  [Log] Element  Rating list in Feedback form Present in the iframe 5
+2018-08-22 22:11:28,657 INFO  [Log] Clicked on Rating in Feedback form
+2018-08-22 22:11:33,693 INFO  [Log] Total iframe count 6
+2018-08-22 22:11:33,761 INFO  [Log] Element  Subject dropdown in Feedback form Present in the iframe 5
+2018-08-22 22:11:33,947 INFO  [Log] Total iframe count 6
+2018-08-22 22:11:34,030 INFO  [Log] Element  Feedback text area Present in the iframe 5
+2018-08-22 22:11:34,233 INFO  [Log] <EnterText on Feedback text area as Question>
+2018-08-22 22:11:34,252 INFO  [Log] Total iframe count 6
+2018-08-22 22:11:34,319 INFO  [Log] Element  Recommendion Rating label Present in the iframe 5
+2018-08-22 22:11:34,565 INFO  [Log] Clicked on Recommendion Rating button
+2018-08-22 22:11:34,586 INFO  [Log] Total iframe count 6
+2018-08-22 22:11:34,644 INFO  [Log] Element  Feedback Submit button Present in the iframe 5
+2018-08-22 22:11:34,801 INFO  [Log] Clicked on Feedback Submit button
+2018-08-22 22:11:34,827 INFO  [Log] Total iframe count 6
+2018-08-22 22:11:36,033 INFO  [Log] Element  Continue browsing button Present in the iframe 5
+2018-08-22 22:11:36,247 INFO  [Log] Clicked on Continue browsing button
+2018-08-22 22:11:37,324 INFO  [Log] *********END TEST CASE*********
+2018-08-22 22:11:42,049 INFO  [Log] *********START TEST CASE*********
+2018-08-22 22:11:56,643 INFO  [Log] Clicked on Customers sub tab
+2018-08-22 22:11:56,894 INFO  [Log] Clicked on Feedback button
+2018-08-22 22:12:01,922 INFO  [Log] Total iframe count 6
+2018-08-22 22:12:01,976 INFO  [Log] Element  Generic Feedback section Present in the iframe 5
+2018-08-22 22:12:02,290 INFO  [Log] Clicked on Generic Feedback section
+2018-08-22 22:12:07,325 INFO  [Log] Total iframe count 6
+2018-08-22 22:12:07,418 INFO  [Log] Element  Rating list in Feedback form Present in the iframe 5
+2018-08-22 22:12:07,634 INFO  [Log] Clicked on Rating in Feedback form
+2018-08-22 22:12:12,686 INFO  [Log] Total iframe count 6
+2018-08-22 22:12:12,738 INFO  [Log] Element  Subject dropdown in Feedback form Present in the iframe 5
+2018-08-22 22:12:12,922 INFO  [Log] Total iframe count 6
+2018-08-22 22:12:12,989 INFO  [Log] Element  Feedback text area Present in the iframe 5
+2018-08-22 22:12:13,166 INFO  [Log] <EnterText on Feedback text area as Awesome>
+2018-08-22 22:12:13,197 INFO  [Log] Total iframe count 6
+2018-08-22 22:12:13,248 INFO  [Log] Element  Email text area Present in the iframe 5
+2018-08-22 22:12:13,487 INFO  [Log] <EnterText on Email text area as deepu212@gmail.com>
+2018-08-22 22:12:13,503 INFO  [Log] Total iframe count 6
+2018-08-22 22:12:13,553 INFO  [Log] Element  Recommendion Rating label Present in the iframe 5
+2018-08-22 22:12:13,821 INFO  [Log] Clicked on Recommendion Rating button
+2018-08-22 22:12:13,848 INFO  [Log] Total iframe count 6
+2018-08-22 22:12:13,906 INFO  [Log] Element  Feedback Submit button Present in the iframe 5
+2018-08-22 22:12:14,082 INFO  [Log] Clicked on Feedback Submit button
+2018-08-22 22:12:14,102 INFO  [Log] Total iframe count 6
+2018-08-22 22:12:14,505 INFO  [Log] Element  Continue browsing button Present in the iframe 5
+2018-08-22 22:12:14,705 INFO  [Log] Clicked on Continue browsing button
+2018-08-22 22:12:17,478 INFO  [Log] *********END TEST CASE*********
+2018-08-22 22:12:21,588 INFO  [Log] *********START TEST CASE*********
+2018-08-22 22:12:38,610 INFO  [Log] Clicked on Customers sub tab
+2018-08-22 22:12:38,798 INFO  [Log] Clicked on Feedback button
+2018-08-22 22:12:43,853 INFO  [Log] Total iframe count 6
+2018-08-22 22:12:43,910 INFO  [Log] Element  Generic Feedback section Present in the iframe 5
+2018-08-22 22:12:44,242 INFO  [Log] Clicked on Generic Feedback section
+2018-08-22 22:12:49,278 INFO  [Log] Total iframe count 6
+2018-08-22 22:12:49,337 INFO  [Log] Element  Rating list in Feedback form Present in the iframe 5
+2018-08-22 22:12:49,580 INFO  [Log] Clicked on Rating in Feedback form
+2018-08-22 22:12:54,604 INFO  [Log] Total iframe count 6
+2018-08-22 22:12:54,652 INFO  [Log] Element  Subject dropdown in Feedback form Present in the iframe 5
+2018-08-22 22:12:54,832 INFO  [Log] Total iframe count 6
+2018-08-22 22:12:54,902 INFO  [Log] Element  Feedback text area Present in the iframe 5
+2018-08-22 22:12:55,123 INFO  [Log] <EnterText on Feedback text area as Nothing>
+2018-08-22 22:12:55,151 INFO  [Log] Total iframe count 6
+2018-08-22 22:12:55,204 INFO  [Log] Element  Close link in Feedback section Present in the iframe 5
+2018-08-22 22:12:55,396 INFO  [Log] Clicked on Close link in Feedback section
+2018-08-22 22:13:11,814 INFO  [Log] *********END TEST CASE*********
+2018-08-22 22:13:16,510 INFO  [Log] *********START TEST CASE*********
+2018-08-22 22:13:28,793 INFO  [Log] Clicked on Feedback button
+2018-08-22 22:13:33,833 INFO  [Log] Total iframe count 7
+2018-08-22 22:13:33,887 INFO  [Log] Element  Specific Feedback section Present in the iframe 6
+2018-08-22 22:13:34,111 INFO  [Log] Clicked on Specific Feedback section
+2018-08-22 22:13:44,449 INFO  [Log] Total iframe count 7
+2018-08-22 22:13:44,508 INFO  [Log] Element  Rating list in Feedback form Present in the iframe 6
+2018-08-22 22:13:44,753 INFO  [Log] Clicked on Rating in Feedback form
+2018-08-22 22:13:49,785 INFO  [Log] Total iframe count 7
+2018-08-22 22:13:49,840 INFO  [Log] Element  Subject dropdown in Feedback form Present in the iframe 6
+2018-08-22 22:13:50,019 INFO  [Log] Total iframe count 7
+2018-08-22 22:13:50,073 INFO  [Log] Element  Feedback text area Present in the iframe 6
+2018-08-22 22:13:50,265 INFO  [Log] <EnterText on Feedback text area as Great>
+2018-08-22 22:13:50,294 INFO  [Log] Total iframe count 7
+2018-08-22 22:13:50,351 INFO  [Log] Element  Recommendion Rating label Present in the iframe 6
+2018-08-22 22:13:50,573 INFO  [Log] Clicked on Recommendion Rating button
+2018-08-22 22:13:50,592 INFO  [Log] Total iframe count 7
+2018-08-22 22:13:50,676 INFO  [Log] Element  Feedback Submit button Present in the iframe 6
+2018-08-22 22:13:50,839 INFO  [Log] Clicked on Feedback Submit button
+2018-08-22 22:13:50,857 INFO  [Log] Total iframe count 7
+2018-08-22 22:13:51,245 INFO  [Log] Element  Continue browsing button Present in the iframe 6
+2018-08-22 22:13:51,460 INFO  [Log] Clicked on Continue browsing button
+2018-08-22 22:13:54,496 INFO  [Log] *********END TEST CASE*********
+2018-08-22 22:13:58,623 INFO  [Log] *********START TEST CASE*********
+2018-08-22 22:14:07,537 INFO  [Log] Clicked on Feedback button
+2018-08-22 22:14:12,587 INFO  [Log] Total iframe count 7
+2018-08-22 22:14:12,728 INFO  [Log] Element  Specific Feedback section Present in the iframe 6
+2018-08-22 22:14:13,039 INFO  [Log] Clicked on Specific Feedback section
+2018-08-22 22:14:23,394 INFO  [Log] Total iframe count 7
+2018-08-22 22:14:23,451 INFO  [Log] Element  Rating list in Feedback form Present in the iframe 6
+2018-08-22 22:14:23,681 INFO  [Log] Clicked on Rating in Feedback form
+2018-08-22 22:14:28,710 INFO  [Log] Total iframe count 7
+2018-08-22 22:14:28,765 INFO  [Log] Element  Subject dropdown in Feedback form Present in the iframe 6
+2018-08-22 22:14:28,962 INFO  [Log] Total iframe count 7
+2018-08-22 22:14:29,023 INFO  [Log] Element  Feedback text area Present in the iframe 6
+2018-08-22 22:14:29,213 INFO  [Log] <EnterText on Feedback text area as Awesome>
+2018-08-22 22:14:29,233 INFO  [Log] Total iframe count 7
+2018-08-22 22:14:29,291 INFO  [Log] Element  Recommendion Rating label Present in the iframe 6
+2018-08-22 22:14:29,538 INFO  [Log] Clicked on Recommendion Rating button
+2018-08-22 22:14:29,564 INFO  [Log] Total iframe count 7
+2018-08-22 22:14:29,616 INFO  [Log] Element  Feedback Submit button Present in the iframe 6
+2018-08-22 22:14:29,824 INFO  [Log] Clicked on Feedback Submit button
+2018-08-22 22:14:29,842 INFO  [Log] Total iframe count 7
+2018-08-22 22:14:30,349 INFO  [Log] Element  Continue browsing button Present in the iframe 6
+2018-08-22 22:14:30,600 INFO  [Log] Clicked on Continue browsing button
+2018-08-22 22:14:31,540 INFO  [Log] *********END TEST CASE*********
+2018-08-22 22:14:36,669 INFO  [Log] *********START TEST CASE*********
+2018-08-22 22:14:45,611 INFO  [Log] Clicked on Feedback button
+2018-08-22 22:14:50,647 INFO  [Log] Total iframe count 7
+2018-08-22 22:14:50,698 INFO  [Log] Element  Generic Feedback section Present in the iframe 6
+2018-08-22 22:14:50,970 INFO  [Log] Clicked on Generic Feedback section
+2018-08-22 22:14:55,999 INFO  [Log] Total iframe count 7
+2018-08-22 22:14:56,074 INFO  [Log] Element  Rating list in Feedback form Present in the iframe 6
+2018-08-22 22:14:56,313 INFO  [Log] Clicked on Rating in Feedback form
+2018-08-22 22:15:01,343 INFO  [Log] Total iframe count 7
+2018-08-22 22:15:01,421 INFO  [Log] Element  Subject dropdown in Feedback form Present in the iframe 6
+2018-08-22 22:15:01,587 INFO  [Log] Total iframe count 7
+2018-08-22 22:15:01,645 INFO  [Log] Element  Feedback text area Present in the iframe 6
+2018-08-22 22:15:01,800 INFO  [Log] <EnterText on Feedback text area as Great>
+2018-08-22 22:15:01,820 INFO  [Log] Total iframe count 7
+2018-08-22 22:15:01,897 INFO  [Log] Element  Recommendion Rating label Present in the iframe 6
+2018-08-22 22:15:02,121 INFO  [Log] Clicked on Recommendion Rating button
+2018-08-22 22:15:02,147 INFO  [Log] Total iframe count 7
+2018-08-22 22:15:02,200 INFO  [Log] Element  Feedback Submit button Present in the iframe 6
+2018-08-22 22:15:02,396 INFO  [Log] Clicked on Feedback Submit button
+2018-08-22 22:15:02,416 INFO  [Log] Total iframe count 7
+2018-08-22 22:15:02,946 INFO  [Log] Element  Continue browsing button Present in the iframe 6
+2018-08-22 22:15:03,168 INFO  [Log] Clicked on Continue browsing button
+2018-08-22 22:15:04,521 INFO  [Log] *********END TEST CASE*********
+2018-08-22 22:15:08,690 INFO  [Log] *********START TEST CASE*********
+2018-08-22 22:15:17,267 INFO  [Log] Clicked on Feedback button
+2018-08-22 22:15:22,318 INFO  [Log] Total iframe count 7
+2018-08-22 22:15:22,376 INFO  [Log] Element  Generic Feedback section Present in the iframe 6
+2018-08-22 22:15:22,683 INFO  [Log] Clicked on Generic Feedback section
+2018-08-22 22:15:27,716 INFO  [Log] Total iframe count 7
+2018-08-22 22:15:27,762 INFO  [Log] Element  Rating list in Feedback form Present in the iframe 6
+2018-08-22 22:15:27,996 INFO  [Log] Clicked on Rating in Feedback form
+2018-08-22 22:15:33,041 INFO  [Log] Total iframe count 7
+2018-08-22 22:15:33,096 INFO  [Log] Element  Subject dropdown in Feedback form Present in the iframe 6
+2018-08-22 22:15:33,263 INFO  [Log] Total iframe count 7
+2018-08-22 22:15:33,319 INFO  [Log] Element  Feedback text area Present in the iframe 6
+2018-08-22 22:15:33,519 INFO  [Log] <EnterText on Feedback text area as Awesome>
+2018-08-22 22:15:33,543 INFO  [Log] Total iframe count 7
+2018-08-22 22:15:33,610 INFO  [Log] Element  Recommendion Rating label Present in the iframe 6
+2018-08-22 22:15:33,898 INFO  [Log] Clicked on Recommendion Rating button
+2018-08-22 22:15:33,921 INFO  [Log] Total iframe count 7
+2018-08-22 22:15:33,995 INFO  [Log] Element  Feedback Submit button Present in the iframe 6
+2018-08-22 22:15:34,173 INFO  [Log] Clicked on Feedback Submit button
+2018-08-22 22:15:34,198 INFO  [Log] Total iframe count 7
+2018-08-22 22:15:34,599 INFO  [Log] Element  Continue browsing button Present in the iframe 6
+2018-08-22 22:15:34,804 INFO  [Log] Clicked on Continue browsing button
+2018-08-22 22:15:37,600 INFO  [Log] *********END TEST CASE*********
+2018-08-22 22:15:41,735 INFO  [Log] *********START TEST CASE*********
+2018-08-22 22:15:52,576 INFO  [Log] Clicked on Feedback button
+2018-08-22 22:15:57,630 INFO  [Log] Total iframe count 7
+2018-08-22 22:15:57,706 INFO  [Log] Element  Generic Feedback section Present in the iframe 6
+2018-08-22 22:15:58,000 INFO  [Log] Clicked on Generic Feedback section
+2018-08-22 22:16:03,031 INFO  [Log] Total iframe count 7
+2018-08-22 22:16:03,085 INFO  [Log] Element  Rating list in Feedback form Present in the iframe 6
+2018-08-22 22:16:03,305 INFO  [Log] Clicked on Rating in Feedback form
+2018-08-22 22:16:08,335 INFO  [Log] Total iframe count 7
+2018-08-22 22:16:08,407 INFO  [Log] Element  Subject dropdown in Feedback form Present in the iframe 6
+2018-08-22 22:16:08,623 INFO  [Log] Total iframe count 7
+2018-08-22 22:16:08,679 INFO  [Log] Element  Feedback text area Present in the iframe 6
+2018-08-22 22:16:08,859 INFO  [Log] <EnterText on Feedback text area as Issue>
+2018-08-22 22:16:08,878 INFO  [Log] Total iframe count 7
+2018-08-22 22:16:08,943 INFO  [Log] Element  Email text area Present in the iframe 6
+2018-08-22 22:16:09,170 INFO  [Log] <EnterText on Email text area as test@example.com>
+2018-08-22 22:16:09,185 INFO  [Log] Total iframe count 7
+2018-08-22 22:16:09,227 INFO  [Log] Element  Close link in Feedback section Present in the iframe 6
+2018-08-22 22:16:09,385 INFO  [Log] Clicked on Close link in Feedback section
+2018-08-22 22:16:25,513 INFO  [Log] *********END TEST CASE*********

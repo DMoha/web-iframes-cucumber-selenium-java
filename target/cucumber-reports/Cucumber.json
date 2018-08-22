@@ -1,0 +1,1366 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8856537689,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Steps.startIteration()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "Successful submission of a specific feedback from Get Started tab",
+        "description": "",
+        "id": "test-the-feedback-button-on-different-tabs;successful-submission-of-a-specific-feedback-from-get-started-tab;details;2",
+        "after": [
+          {
+            "result": {
+              "duration": 1261187173,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Steps.endIteration()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8596486202,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User has naviagted to the \"Get Started\" in Usabilla",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Get Started",
+                  "offset": 27
+                }
+              ],
+              "location": "Steps.user_has_naviagted_to_the_in_Usabilla(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6779772033,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "selected \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 10
+                }
+              ],
+              "location": "Steps.selected(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5917603217,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User wants to provide \"Specific\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Specific",
+                  "offset": 23
+                }
+              ],
+              "location": "Steps.user_wants_to_provide(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5471112307,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User selects \"Request Demo Form\" for providing Feedback",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Request Demo Form",
+                  "offset": 14
+                }
+              ],
+              "location": "Steps.user_selects_for_providing_Feedback(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11762567176,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User provides \"4\", \"Suggestion\", \"Field names can be bolder\", \"\", \"7\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "4",
+                  "offset": 15
+                },
+                {
+                  "val": "Suggestion",
+                  "offset": 20
+                },
+                {
+                  "val": "Field names can be bolder",
+                  "offset": 34
+                },
+                {
+                  "val": "",
+                  "offset": 63
+                },
+                {
+                  "val": "7",
+                  "offset": 67
+                }
+              ],
+              "location": "Steps.user_provides(String,String,String,String,String)"
+            },
+            "matchedColumns": [
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1140815650,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User should be able to submit the Feedback",
+            "match": {
+              "location": "Steps.user_should_be_able_to_submit_the_Feedback()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@End2EndTest"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5519603630,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Steps.startIteration()"
+            }
+          }
+        ],
+        "line": 26,
+        "name": "Successful submission of a general feedback from Customers tab",
+        "description": "",
+        "id": "test-the-feedback-button-on-different-tabs;successful-submission-of-a-general-feedback-from-customers-tab;details;2",
+        "after": [
+          {
+            "result": {
+              "duration": 1077204313,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Steps.endIteration()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 11232604932,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User has naviagted to the \"Customers\" in Usabilla",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Customers",
+                  "offset": 27
+                }
+              ],
+              "location": "Steps.user_has_naviagted_to_the_in_Usabilla(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7339051477,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "selected \"Our Clients\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Our Clients",
+                  "offset": 10
+                }
+              ],
+              "location": "Steps.selected(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5568325661,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User wants to provide \"General\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "General",
+                  "offset": 23
+                }
+              ],
+              "location": "Steps.user_wants_to_provide(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 11257347262,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "User provides \"4\", \"Question\", \"Question\", \"\", \"8\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "4",
+                  "offset": 15
+                },
+                {
+                  "val": "Question",
+                  "offset": 20
+                },
+                {
+                  "val": "Question",
+                  "offset": 32
+                },
+                {
+                  "val": "",
+                  "offset": 44
+                },
+                {
+                  "val": "8",
+                  "offset": 48
+                }
+              ],
+              "location": "Steps.user_provides(String,String,String,String,String)"
+            },
+            "matchedColumns": [
+              3,
+              4,
+              5,
+              6,
+              7
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1680460004,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "User should be able to submit the Feedback",
+            "match": {
+              "location": "Steps.user_should_be_able_to_submit_the_Feedback()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 17,
+            "name": "@End2EndTest"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4724085505,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Steps.startIteration()"
+            }
+          }
+        ],
+        "line": 27,
+        "name": "Successful submission of a general feedback from Customers tab",
+        "description": "",
+        "id": "test-the-feedback-button-on-different-tabs;successful-submission-of-a-general-feedback-from-customers-tab;details;3",
+        "after": [
+          {
+            "result": {
+              "duration": 2772070790,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Steps.endIteration()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8418661479,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User has naviagted to the \"Customers\" in Usabilla",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Customers",
+                  "offset": 27
+                }
+              ],
+              "location": "Steps.user_has_naviagted_to_the_in_Usabilla(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6166870823,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "selected \"Case Studies\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Case Studies",
+                  "offset": 10
+                }
+              ],
+              "location": "Steps.selected(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5643659773,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User wants to provide \"General\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "General",
+                  "offset": 23
+                }
+              ],
+              "location": "Steps.user_wants_to_provide(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 11528178168,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "User provides \"5\", \"Compliment\", \"Awesome\", \"deepu212@gmail.com\", \"9\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "5",
+                  "offset": 15
+                },
+                {
+                  "val": "Compliment",
+                  "offset": 20
+                },
+                {
+                  "val": "Awesome",
+                  "offset": 34
+                },
+                {
+                  "val": "deepu212@gmail.com",
+                  "offset": 45
+                },
+                {
+                  "val": "9",
+                  "offset": 67
+                }
+              ],
+              "location": "Steps.user_provides(String,String,String,String,String)"
+            },
+            "matchedColumns": [
+              3,
+              4,
+              5,
+              6,
+              7
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 881128742,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "User should be able to submit the Feedback",
+            "match": {
+              "location": "Steps.user_should_be_able_to_submit_the_Feedback()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 17,
+            "name": "@End2EndTest"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4091653179,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Steps.startIteration()"
+            }
+          }
+        ],
+        "line": 38,
+        "name": "Successful cancellation of a general feedback from Partners tab",
+        "description": "",
+        "id": "test-the-feedback-button-on-different-tabs;successful-cancellation-of-a-general-feedback-from-partners-tab;details;2",
+        "after": [
+          {
+            "result": {
+              "duration": 1334107563,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Steps.endIteration()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 9674911433,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "User has naviagted to the \"Partners\" in Usabilla",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Partners",
+                  "offset": 27
+                }
+              ],
+              "location": "Steps.user_has_naviagted_to_the_in_Usabilla(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7339151435,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "selected \"Partnership Overview\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Partnership Overview",
+                  "offset": 10
+                }
+              ],
+              "location": "Steps.selected(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5630173450,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "User wants to provide \"General\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "General",
+                  "offset": 23
+                }
+              ],
+              "location": "Steps.user_wants_to_provide(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 10875411491,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "User provides \"2\", \"Bug\", \"Nothing\", \"\", \"4\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2",
+                  "offset": 15
+                },
+                {
+                  "val": "Bug",
+                  "offset": 20
+                },
+                {
+                  "val": "Nothing",
+                  "offset": 27
+                },
+                {
+                  "val": "",
+                  "offset": 38
+                },
+                {
+                  "val": "4",
+                  "offset": 42
+                }
+              ],
+              "location": "Steps.user_provides(String,String,String,String,String)"
+            },
+            "matchedColumns": [
+              3,
+              4,
+              5,
+              6,
+              7
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 15354821220,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "User should be able to cancel the Feedback",
+            "match": {
+              "location": "Steps.user_should_be_able_to_cancel_the_Feedback()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 29,
+            "name": "@End2EndTest"
+          }
+        ]
+      }
+    ],
+    "name": "Test the Feedback button on different tabs",
+    "description": "Description: This feature will test the functionalities of Feedback button on different tabs",
+    "id": "test-the-feedback-button-on-different-tabs",
+    "keyword": "Feature",
+    "uri": "Feedback_Button_Available_All_Tabs_Tests.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4680768357,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Steps.startIteration()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "Successful submission of a specific feedback",
+        "description": "",
+        "id": "test-the-feedback-button-on-homepage;successful-submission-of-a-specific-feedback;details;2",
+        "after": [
+          {
+            "result": {
+              "duration": 3035074168,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Steps.endIteration()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 12123927179,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User has naviagted to the \"Home\" in Usabilla",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Home",
+                  "offset": 27
+                }
+              ],
+              "location": "Steps.user_has_naviagted_to_the_in_Usabilla(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5472157406,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User wants to provide \"Specific\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Specific",
+                  "offset": 23
+                }
+              ],
+              "location": "Steps.user_wants_to_provide(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5305287475,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User selects \"Feedback button\" for providing Feedback",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Feedback button",
+                  "offset": 14
+                }
+              ],
+              "location": "Steps.user_selects_for_providing_Feedback(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11152740126,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User provides \"4\", \"Suggestion\", \"Great\", \"\", \"8\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "4",
+                  "offset": 15
+                },
+                {
+                  "val": "Suggestion",
+                  "offset": 20
+                },
+                {
+                  "val": "Great",
+                  "offset": 34
+                },
+                {
+                  "val": "",
+                  "offset": 43
+                },
+                {
+                  "val": "8",
+                  "offset": 47
+                }
+              ],
+              "location": "Steps.user_provides(String,String,String,String,String)"
+            },
+            "matchedColumns": [
+              3,
+              4,
+              5,
+              6,
+              7
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 886274357,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User should be able to submit the Feedback",
+            "match": {
+              "location": "Steps.user_should_be_able_to_submit_the_Feedback()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@End2EndTest"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4114662751,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Steps.startIteration()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "Successful submission of a specific feedback",
+        "description": "",
+        "id": "test-the-feedback-button-on-homepage;successful-submission-of-a-specific-feedback;details;3",
+        "after": [
+          {
+            "result": {
+              "duration": 938614517,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Steps.endIteration()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8758700044,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User has naviagted to the \"Home\" in Usabilla",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Home",
+                  "offset": 27
+                }
+              ],
+              "location": "Steps.user_has_naviagted_to_the_in_Usabilla(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5649692071,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User wants to provide \"Specific\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Specific",
+                  "offset": 23
+                }
+              ],
+              "location": "Steps.user_wants_to_provide(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5322817197,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User selects \"Logo\" for providing Feedback",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Logo",
+                  "offset": 14
+                }
+              ],
+              "location": "Steps.user_selects_for_providing_Feedback(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11173361857,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User provides \"5\", \"Compliment\", \"Awesome\", \"\", \"9\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "5",
+                  "offset": 15
+                },
+                {
+                  "val": "Compliment",
+                  "offset": 20
+                },
+                {
+                  "val": "Awesome",
+                  "offset": 34
+                },
+                {
+                  "val": "",
+                  "offset": 45
+                },
+                {
+                  "val": "9",
+                  "offset": 49
+                }
+              ],
+              "location": "Steps.user_provides(String,String,String,String,String)"
+            },
+            "matchedColumns": [
+              3,
+              4,
+              5,
+              6,
+              7
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1062008883,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User should be able to submit the Feedback",
+            "match": {
+              "location": "Steps.user_should_be_able_to_submit_the_Feedback()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@End2EndTest"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5124969600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Steps.startIteration()"
+            }
+          }
+        ],
+        "line": 25,
+        "name": "Successful submission of a general feedback",
+        "description": "",
+        "id": "test-the-feedback-button-on-homepage;successful-submission-of-a-general-feedback;details;2",
+        "after": [
+          {
+            "result": {
+              "duration": 1352234802,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Steps.endIteration()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8741239491,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User has naviagted to the \"Home\" in Usabilla",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Home",
+                  "offset": 27
+                }
+              ],
+              "location": "Steps.user_has_naviagted_to_the_in_Usabilla(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5550898129,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User wants to provide \"General\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "General",
+                  "offset": 23
+                }
+              ],
+              "location": "Steps.user_wants_to_provide(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 11150531675,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User provides \"4\", \"Suggestion\", \"Great\", \"\", \"7\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "4",
+                  "offset": 15
+                },
+                {
+                  "val": "Suggestion",
+                  "offset": 20
+                },
+                {
+                  "val": "Great",
+                  "offset": 34
+                },
+                {
+                  "val": "",
+                  "offset": 43
+                },
+                {
+                  "val": "7",
+                  "offset": 47
+                }
+              ],
+              "location": "Steps.user_provides(String,String,String,String,String)"
+            },
+            "matchedColumns": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1045995046,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "User should be able to submit the Feedback",
+            "match": {
+              "location": "Steps.user_should_be_able_to_submit_the_Feedback()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 17,
+            "name": "@End2EndTest"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4166956947,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Steps.startIteration()"
+            }
+          }
+        ],
+        "line": 26,
+        "name": "Successful submission of a general feedback",
+        "description": "",
+        "id": "test-the-feedback-button-on-homepage;successful-submission-of-a-general-feedback;details;3",
+        "after": [
+          {
+            "result": {
+              "duration": 2795416382,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Steps.endIteration()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8386195596,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User has naviagted to the \"Home\" in Usabilla",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Home",
+                  "offset": 27
+                }
+              ],
+              "location": "Steps.user_has_naviagted_to_the_in_Usabilla(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5603239627,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User wants to provide \"General\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "General",
+                  "offset": 23
+                }
+              ],
+              "location": "Steps.user_wants_to_provide(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 11213221969,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User provides \"5\", \"Compliment\", \"Awesome\", \"\", \"8\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "5",
+                  "offset": 15
+                },
+                {
+                  "val": "Compliment",
+                  "offset": 20
+                },
+                {
+                  "val": "Awesome",
+                  "offset": 34
+                },
+                {
+                  "val": "",
+                  "offset": 45
+                },
+                {
+                  "val": "8",
+                  "offset": 49
+                }
+              ],
+              "location": "Steps.user_provides(String,String,String,String,String)"
+            },
+            "matchedColumns": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 900958394,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "User should be able to submit the Feedback",
+            "match": {
+              "location": "Steps.user_should_be_able_to_submit_the_Feedback()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 17,
+            "name": "@End2EndTest"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4129332060,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Steps.startIteration()"
+            }
+          }
+        ],
+        "line": 36,
+        "name": "Successful Cancellation of a general feedback",
+        "description": "",
+        "id": "test-the-feedback-button-on-homepage;successful-cancellation-of-a-general-feedback;details;2",
+        "after": [
+          {
+            "result": {
+              "duration": 1099934983,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Steps.endIteration()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 10658012697,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "User has naviagted to the \"Home\" in Usabilla",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Home",
+                  "offset": 27
+                }
+              ],
+              "location": "Steps.user_has_naviagted_to_the_in_Usabilla(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5600175284,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "User wants to provide \"General\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "General",
+                  "offset": 23
+                }
+              ],
+              "location": "Steps.user_wants_to_provide(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 11166898490,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "User provides \"1\", \"Bug\", \"Issue\", \"test@example.com\", \"1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 15
+                },
+                {
+                  "val": "Bug",
+                  "offset": 20
+                },
+                {
+                  "val": "Issue",
+                  "offset": 27
+                },
+                {
+                  "val": "test@example.com",
+                  "offset": 36
+                },
+                {
+                  "val": "1",
+                  "offset": 56
+                }
+              ],
+              "location": "Steps.user_provides(String,String,String,String,String)"
+            },
+            "matchedColumns": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 15241823845,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "User should be able to cancel the Feedback",
+            "match": {
+              "location": "Steps.user_should_be_able_to_cancel_the_Feedback()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 28,
+            "name": "@End2EndTest"
+          }
+        ]
+      }
+    ],
+    "name": "Test the Feedback button on Homepage",
+    "description": "Description: This feature will test the functionalities of Feedback button on the Home page",
+    "id": "test-the-feedback-button-on-homepage",
+    "keyword": "Feature",
+    "uri": "Feedback_Button_HomePage_Tests.feature"
+  }
+]
